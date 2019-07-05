@@ -1,0 +1,41 @@
+(+ 1 2)
+(+ 3 4)
+(+ 4 (* 2 3))
+(+ 2 3 4 5 6)
++
+(get "abrakadabra" 0)
+quit
+(answer)
+(use 'training-day')
+quite
+quit
+(use 'training-day)
+(use 'training-day) hai
+(use 'training-day)
+hai
+answer
+(square 2)
+quit
+(square 2)
+(use 'training_day')
+(use 'training-day)
+(square 2)
+quit
+(use training-day)
+(use 'training-day')
+(use 'training-day)
+quit
+(use 'training-day)
+quit
+(use 'training-day)
+(square 2)
+(square 3)
+quit
+(use 'training-day)
+(average 2 4)
+quiit
+quit
+(use 'training-day)
+(average 2 4)
+(average 1 2)
+quit
